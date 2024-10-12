@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Profile Downloader", "Profile Downloader.pyproj", "{E8D4D831-2962-4208-95AA-5DB173C2B10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D4D831-2962-4208-95AA-5DB173C2B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D4D831-2962-4208-95AA-5DB173C2B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792F0399-F4E7-4F05-8B52-BF6C57406E6E}
+	EndGlobalSection
+EndGlobal
